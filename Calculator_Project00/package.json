@@ -1,0 +1,20 @@
+{
+  "name": "project00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "inquirer": "^9.1.4"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
